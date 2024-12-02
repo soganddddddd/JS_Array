@@ -20,5 +20,8 @@
 //Output: [0,1]
 
 function twosum (numbers , target) {
-    
+    for (let i  = 0; i  < array.length; i ++) {
+      
+        
+    }
 }
