@@ -31,4 +31,5 @@ function twosum (numbers , target) {
       }
         
     }
+    return[];
 }
