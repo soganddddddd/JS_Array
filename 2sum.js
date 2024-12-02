@@ -33,3 +33,5 @@ function twosum (numbers , target) {
     }
     return[];
 }
+
+console.log (twosum([2,7,11,15] , 9))
