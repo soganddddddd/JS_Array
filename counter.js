@@ -10,7 +10,7 @@
 function counter (n) {
 let count = n;
  return function (){
-    count++
- }
+    return count++;
+ };
     
 }
