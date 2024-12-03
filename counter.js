@@ -8,5 +8,9 @@
 //Output: [10,11,12]
 
 function counter (n) {
+let count = n;
+ return function (){
+    count++
+ }
     
 }
